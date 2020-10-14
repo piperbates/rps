@@ -1,0 +1,42 @@
+body {
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  text-align: center;
+  background-color: pink;
+}
+
+#submit {
+  background-color: pink;
+  padding: 10px;
+  border: 1px solid black;
+  border-radius: 25px;
+}
+
+#input {
+  width: 200px;
+  height: 25px;
+  border-radius: 25px;
+  padding: 5px;
+}
+
+#stage {
+  width: 500px;
+  border: 2px solid black;
+  height: 300px;
+  padding: 20px;
+  margin: auto;
+  background-color: white;
+}
+
+#box {
+  text-align: center;
+  padding-top: 10px;
+}
+
+#score {
+  text-decoration: underline;
+}
+
+#timesPlayed {
+  opacity: 50%;
+}
